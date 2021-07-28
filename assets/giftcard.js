@@ -14,6 +14,7 @@ window.addEventListener('DOMContentLoaded', function () {
     width: 120,
     height: 120,
     imageAltText: theme.strings.qrImageAlt,
+    hello: "hello"
   });
 
   document
